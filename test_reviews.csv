@@ -1,0 +1,11 @@
+review_text,true_sentiment
+"This movie was absolutely fantastic! Great acting and plot.","Positive"
+"Terrible film, wasted my time and money.","Negative"
+"It was okay, nothing special but not bad either.","Neutral"
+"The cinematography was beautiful but the story was weak.","Neutral"
+"Amazing performance by all actors, highly recommended!","Positive"
+"Boring and predictable, wouldn't watch again.","Negative"
+"Great special effects but poor character development.","Neutral"
+"One of the best movies I've seen this year!","Positive"
+"Complete waste of time, terrible script.","Negative"
+"Average movie with some good moments.","Neutral"
