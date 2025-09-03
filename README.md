@@ -15,5 +15,5 @@ A sentiment analysis system for movie reviews using Google's Gemini LLM. Classif
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/B-2001/movie-sentiment-analyzer>
    cd movie-sentiment-analyzer
